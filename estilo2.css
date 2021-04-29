@@ -1,0 +1,28 @@
+h1{
+	font-family:Arial;
+	color:#113f67;
+	font-weight: bolder;
+}
+p{
+	font-family:Arial;
+	text-align:justify;
+}
+strong{
+	font-family:Arial;
+	color:#113f67;
+}
+h2{
+	font-family:Arial;
+	color:#113f67;
+	font-weight: bolder;
+}
+#foto{
+	max-width: 40%;
+  	height: auto;
+  	border-radius:20px;
+}
+td{
+	font-weight: bolder;
+	font-family:Arial;
+
+}
